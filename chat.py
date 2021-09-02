@@ -7,7 +7,7 @@ class Chat:
 
 /help for more details..
 
-Credits :- @mohdsabahat
+Credits :- @films_and_trends_group
     """
 
     HELP_USER = "??"
@@ -23,9 +23,9 @@ To give custom name to file send it with url seperated with |
 
 <b>Note : </b><i>Please note that only english type fonts are supported in hardmux other scripts will be shown as empty blocks on the video!</i>
 
-<a href="https://github.com/mohdsabahat/sub-muxer">Repo URL</a>"""
+<a href="@films_and_trends_group">Support Group</a>"""
 
-    NO_AUTH_USER = "You are not authorised to use this bot.\nContact the bot owner!"
+    NO_AUTH_USER = "You are not authorised to use this bot.\nContact the bot owner! @filmsandtrends_owner"
     DOWNLOAD_SUCCESS = """File downloaded successfully!
 
 Time taken : {} seconds."""
